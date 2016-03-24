@@ -17,5 +17,5 @@ There is also a third option that can be passed to `mp4meta`. By default, timeou
 mp4meta(myFile, cb, 500);
 ```
 
-## links
+## Links
 http://atomicparsley.sourceforge.net/mpeg-4files.html - A great resource to find out about metadata tags.
