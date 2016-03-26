@@ -1,0 +1,34 @@
+{
+  "name": "mediaid",
+  "version": "1.0.0",
+  "description": "Extract metadata from media files in your browser",
+  "main": "dist/mediaid.js",
+  "scripts": {
+    "build": "npm install && grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aesora/mediaid.js.git"
+  },
+  "keywords": [
+    "media",
+    "mediainfo",
+    "id3",
+    "mediaid",
+    "metadata",
+    "mp4",
+    "avi"
+  ],
+  "author": "Matthias Breithaupt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aesora/mediaid.js/issues"
+  },
+  "homepage": "https://github.com/aesora/mediaid.js#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^1.1.0",
+    "grunt-contrib-concat": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1"
+  }
+}
